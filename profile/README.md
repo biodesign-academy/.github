@@ -1,6 +1,6 @@
 # Biodesign Academy
 
-AI-native biodesign. We work with designers, students and educators who use proteins and living matter, and we try to keep care and fairness inside the work, not added afterwards.
+Insights and tools for learning and practising AI-native biodesign. We work with designers, students and educators who use proteins and living matter, and we try to keep care and fairness inside the work, not added afterwards.
 
 Website: [biodesign.academy](https://www.biodesign.academy) · Based in Stockholm and London
 
